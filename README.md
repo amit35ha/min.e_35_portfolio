@@ -41,7 +41,7 @@ Screenshort
 # Amit's Personal Portfolio
 Here's a look at the homepage:
 
-![Homepage Screenshot](assets/screenshort.png)
+![Homepage Screenshot](screenshort.png)
 
 Contact
 For inquiries or collaborations, please refer to the "Contact" section on the website, or reach out via the provided Instagram link in the hero section.
